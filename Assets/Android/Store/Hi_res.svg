@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Hi_res.svg"
+   inkscape:version="0.91 r13725"
+   width="256"
+   version="1.0"
+   id="svg2"
+   height="256"
+   inkscape:export-filename="C:\Users\frant\Development\unity\unity-samples\trunk\The Legend of the Scavenger\Assets\Android\Store\Hi_res.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="0.5020458"
+     inkscape:cx="-593.6052"
+     inkscape:cy="64.90336"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="false" />
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3908">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3910" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3912" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11170">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop11172" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop11174" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2555">
+      <stop
+         style="stop-color: rgb(255, 255, 255); stop-opacity: 1;"
+         offset="0"
+         id="stop2557" />
+      <stop
+         style="stop-color: rgb(255, 255, 255); stop-opacity: 0;"
+         offset="1"
+         id="stop2559" />
+    </linearGradient>
+    <linearGradient
+       y2="425.39993"
+       y1="274.711"
+       xlink:href="#linearGradient2555"
+       x2="-395.84943"
+       x1="-344.15295"
+       id="linearGradient2449"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)" />
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4176"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11170"
+       id="linearGradient11176"
+       x1="133.83759"
+       y1="141.24197"
+       x2="192.63603"
+       y2="156.99696"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11188">
+      <g
+         id="g11190"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11192"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11194"
+           style="opacity:0.7811159;fill:url(#linearGradient11200);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11196"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11198"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11200"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11202">
+      <g
+         id="g11204"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11206"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11208"
+           style="opacity:0.7811159;fill:url(#linearGradient11214);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11210"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11212"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11214"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11216">
+      <g
+         id="g11218"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11220"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11222"
+           style="opacity:0.7811159;fill:url(#linearGradient11228);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11224"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11226"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11228"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11230">
+      <g
+         id="g11232"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11234"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11236"
+           style="opacity:0.7811159;fill:url(#linearGradient11242);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11238"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11240"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11242"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11244">
+      <g
+         id="g11246"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11248"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11250"
+           style="opacity:0.7811159;fill:url(#linearGradient11256);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11252"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11254"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11256"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11258">
+      <g
+         id="g11260"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11262"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11264"
+           style="opacity:0.7811159;fill:url(#linearGradient11270);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11266"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11268"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11270"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11272">
+      <g
+         id="g11274"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11276"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11278"
+           style="opacity:0.7811159;fill:url(#linearGradient11284);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11280"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11282"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11284"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11286">
+      <g
+         id="g11288"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11290"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11292"
+           style="opacity:0.7811159;fill:url(#linearGradient11298);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11294"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11296"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11298"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11300">
+      <g
+         id="g11302"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11304"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11306"
+           style="opacity:0.7811159;fill:url(#linearGradient11312);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11308"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11310"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11312"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11314">
+      <g
+         id="g11316"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11318"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11320"
+           style="opacity:0.7811159;fill:url(#linearGradient11326);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11322"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11324"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11326"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11328">
+      <g
+         id="g11330"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11332"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11334"
+           style="opacity:0.7811159;fill:url(#linearGradient11340);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11336"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11338"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11340"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11342">
+      <g
+         id="g11344"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11346"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11348"
+           style="opacity:0.7811159;fill:url(#linearGradient11354);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11350"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11352"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11354"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11356">
+      <g
+         id="g11358"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11360"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11362"
+           style="opacity:0.7811159;fill:url(#linearGradient11368);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11364"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11366"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11368"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11370">
+      <g
+         id="g11372"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11374"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11376"
+           style="opacity:0.7811159;fill:url(#linearGradient11382);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11378"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11380"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11382"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11384">
+      <g
+         id="g11386"
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)">
+        <rect
+           height="234.98955"
+           id="rect11388"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11390"
+           style="opacity:0.7811159;fill:url(#linearGradient11396);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11392"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11394"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11396"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath11398">
+      <g
+         id="g11400">
+        <rect
+           height="234.98955"
+           id="rect11402"
+           rx="35.487503"
+           ry="35.487503"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           transform="scale(-1,1)"
+           width="235.00784"
+           x="-619.14587"
+           y="328.84921" />
+        <path
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z"
+           id="path11404"
+           style="opacity:0.7811159;fill:url(#linearGradient11410);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text11406"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           transform="scale(0.87692359,1.1403502)"
+           x="475.63913"
+           xml:space="preserve"
+           y="461.13617"
+           sodipodi:linespacing="125%"><tspan
+             id="tspan11408"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             x="475.63913"
+             y="461.13617" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient11410"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4359"
+       effect="spiro" />
+    <inkscape:perspective
+       id="perspective4841"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3908"
+       id="linearGradient3914"
+       x1="-66.791644"
+       y1="128.64884"
+       x2="368.53185"
+       y2="128.64884"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       y="-.1033"
+       x="-.0345"
+       width="1.0689"
+       id="filter3803"
+       height="1.2066">
+      <feGaussianBlur
+         id="feGaussianBlur8453"
+         stdDeviation="1.08" />
+    </filter>
+    <linearGradient
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8643"
+       x1="-344.15295"
+       x2="-395.84943"
+       xlink:href="#linearGradient2555"
+       y1="274.711"
+       y2="425.39993" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2555"
+       id="linearGradient8645"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       x1="-344.15295"
+       y1="274.711"
+       x2="-395.84943"
+       y2="425.39993" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="156.99696"
+       x2="192.63603"
+       y1="141.24197"
+       x1="133.83759"
+       id="linearGradient8647"
+       xlink:href="#linearGradient3908"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11188-6"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11190-3">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11192-6"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11200);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11194-3"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11196-1"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11198-7" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8655"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11202-4"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11204-0">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11206-4"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11214);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11208-3"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11210-3"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11212-7" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8663"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11216-7"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11218-2">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11220-6"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11228);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11222-4"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11224-3"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11226-0" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8671"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11230-1"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11232-5">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11234-7"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11242);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11236-7"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11238-5"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11240-6" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8679"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11244-4"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11246-5">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11248-3"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11256);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11250-5"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11252-3"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11254-4" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8687"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11258-3"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11260-7">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11262-7"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11270);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11264-7"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11266-2"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11268-3" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8695"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11272-5"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11274-0">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11276-0"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11284);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11278-9"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11280-6"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11282-7" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8703"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11286-8"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11288-8">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11290-0"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11298);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11292-9"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11294-0"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11296-0" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8711"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11300-4"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11302-0">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11304-7"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11312);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11306-8"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11308-2"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11310-9" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8719"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11314-6"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11316-9">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11318-4"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11326);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11320-6"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11322-9"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11324-3" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8727"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11328-5"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11330-1">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11332-4"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11340);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11334-2"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11336-9"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11338-4" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8735"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11342-5"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11344-4">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11346-7"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11354);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11348-5"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11350-9"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11352-1" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8743"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11356-0"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11358-9">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11360-2"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11368);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11362-4"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11364-6"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11366-1" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8751"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11370-0"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11372-0">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11374-4"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11382);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11376-0"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11378-4"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11380-2" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8759"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11384-0"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         transform="matrix(0.408497,0,0,0.40852881,-76.919233,-54.344378)"
+         id="g11386-4">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11388-9"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11396);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11390-9"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11392-7"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11394-5" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8767"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath11398-0"
+       clipPathUnits="userSpaceOnUse">
+      <g
+         id="g11400-3">
+        <rect
+           y="328.84921"
+           x="-619.14587"
+           width="235.00784"
+           transform="scale(-1,1)"
+           style="fill:#1d8cb5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           ry="35.487503"
+           rx="35.487503"
+           id="rect11402-0"
+           height="234.98955" />
+        <path
+           inkscape:connector-curvature="0"
+           style="opacity:0.7811159;fill:url(#linearGradient11410);fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path11404-6"
+           d="m 557.05665,338.89518 -110.82944,0 c -29.33688,0 -52.95465,23.80974 -52.95465,53.38507 l 0,108.12736 c 0.9496,23.08605 4.60229,8.49154 11.55502,-17.07471 8.08056,-29.71315 34.39648,-55.68287 66.44461,-75.1457 24.46133,-14.85525 51.84109,-24.34125 101.67955,-25.24367 28.26482,-0.51176 25.7695,-36.68291 -15.89509,-44.04835 z" />
+        <text
+           sodipodi:linespacing="125%"
+           y="461.13617"
+           xml:space="preserve"
+           x="475.63913"
+           transform="scale(0.87692359,1.1403502)"
+           style="font-size:89.64079285px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           id="text11406-5"><tspan
+             y="461.13617"
+             x="475.63913"
+             style="font-size:199.20176697px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+             id="tspan11408-3" /></text>
+      </g>
+    </clipPath>
+    <linearGradient
+       y2="425.39993"
+       x2="-395.84943"
+       y1="274.711"
+       x1="-344.15295"
+       gradientTransform="matrix(-0.5914583,0,0,0.5914584,210.0216,142.2324)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient8775"
+       xlink:href="#linearGradient2555"
+       inkscape:collect="always" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4359-0"
+       is_visible="true" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective4841-3" />
+  </defs>
+  <text
+     id="text5955"
+     style="font-size:36.6194191px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     transform="scale(0.87688946,1.1403946)"
+     x="106.58645"
+     xml:space="preserve"
+     y="140.72606"
+     sodipodi:linespacing="125%"><tspan
+       id="tspan5957"
+       style="font-size:81.37649536px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black,'"
+       x="106.58645"
+       y="140.72606" /></text>
+  <rect
+     height="508.44711"
+     id="rect1942"
+     style="fill:#00680a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.55288243;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="scale(-1,1)"
+     width="508.44714"
+     x="-382.22357"
+     y="-126.22356"
+     ry="76.784332"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     transform="matrix(59.00452,0,0,59.00452,-15.471,-61889.099)"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="opacity:0.9">
+    <g
+       transform="matrix(0.06856451,0,0,0.06856451,-43.931861,1019.9453)"
+       id="g6473"
+       style="">
+      <path
+         style="fill:#aa0000;fill-opacity:1;stroke:none"
+         d="m 706.14252,408.4918 c 10.94455,17.17918 6.0912,28.72175 -10.18287,34.46508 -103.41726,16.72188 -40.09485,-87.2055 10.18287,-34.46508 z"
+         id="path6453"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#d3bc5f;stroke:none"
+         d="m 666.586,444.52348 c -1.96349,9.0565 -4.5531,11.85531 -5.09143,22.32397 -0.53833,10.46866 27.685,11.61631 29.7653,1.17495 -0.54288,-4.31432 0.39189,-3.99757 -8.61627,-23.89057 z"
+         id="path6455"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="czccc" />
+      <ellipse
+         ry="3.9164865"
+         rx="4.1123109"
+         cy="424.54941"
+         cx="530.4881"
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path6457"
+         transform="translate(125.71922,-8.2246217)" />
+      <ellipse
+         ry="3.9164865"
+         rx="4.1123109"
+         cy="424.54941"
+         cx="530.4881"
+         transform="matrix(1.7,0,0,1.7,-230.09359,-315.20042)"
+         id="path6459"
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <ellipse
+         ry="3.9164865"
+         rx="4.1123109"
+         cy="424.54941"
+         cx="530.4881"
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path6461"
+         transform="matrix(0.70000001,0,0,0.70000001,287.27427,109.34899)" />
+      <ellipse
+         ry="3.9164865"
+         rx="4.1123109"
+         cy="424.54941"
+         cx="530.4881"
+         transform="matrix(0.70000001,0,0,0.70000001,287.27427,109.34899)"
+         id="path6463"
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <ellipse
+         ry="3.9164865"
+         rx="4.1123109"
+         cy="424.54941"
+         cx="530.4881"
+         style="opacity:0.95;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path6469"
+         transform="matrix(-0.6998708,-0.01344888,0.01344888,-0.6998708,1060.8079,734.81824)" />
+    </g>
+  </g>
+  <g
+     id="g4025"
+     transform="matrix(0.81395897,0,0,0.81395897,-146.62642,70.503182)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text3975-1"
+       y="300.43533"
+       x="151.58907"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.38245392px;line-height:125%;font-family:BlackChancery;-inkscape-font-specification:BlackChancery;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.93456131;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.25076294px;font-family:'Knights Quest';-inkscape-font-specification:'Knights Quest';fill:#a30000;fill-opacity:1;stroke:#000000;stroke-width:0.93456131;stroke-opacity:1"
+         y="300.43533"
+         x="151.58907"
+         id="tspan3977-7"
+         sodipodi:role="line">cavenger</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3975-1-4"
+       y="300.55383"
+       x="43.377415"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.04537964px;line-height:125%;font-family:BlackChancery;-inkscape-font-specification:BlackChancery;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.70113468;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:260.91503906px;font-family:'Knights Quest';-inkscape-font-specification:'Knights Quest';fill:#a30000;fill-opacity:1;stroke:#000000;stroke-width:1.70113468;stroke-opacity:1"
+         y="300.55383"
+         x="43.377415"
+         id="tspan3977-7-0"
+         sodipodi:role="line">S</tspan></text>
+  </g>
+  <text
+     id="text5955-4"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.6194191px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke:none"
+     transform="scale(0.87688946,1.1403946)"
+     x="-559.55646"
+     xml:space="preserve"
+     y="147.29665"
+     sodipodi:linespacing="125%"><tspan
+       id="tspan5957-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.37649536px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+       x="-559.55646"
+       y="147.29665" /></text>
+</svg>

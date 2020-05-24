@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 39aac8cad7019c041bb0556c35b3a69a
+timeCreated: 1449880214
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Link_ALttP_Red_Knight_0
+    21300002: Link_ALttP_Red_Knight_1
+    21300004: Link_ALttP_Red_Knight_2
+    21300006: Link_ALttP_Red_Knight_3
+    21300008: Link_ALttP_Red_Knight_4
+    21300010: Link_ALttP_Red_Knight_5
+    21300012: Link_ALttP_Red_Knight_6
+    21300014: Link_ALttP_Red_Knight_7
+    21300016: Link_ALttP_Red_Knight_8
+    21300018: Link_ALttP_Red_Knight_9
+    21300020: Link_ALttP_Red_Knight_10
+    21300022: Link_ALttP_Red_Knight_11
+    21300024: Link_ALttP_Red_Knight_12
+    21300026: Link_ALttP_Red_Knight_13
+    21300028: Link_ALttP_Red_Knight_14
+    21300030: Link_ALttP_Red_Knight_15
+    21300032: Link_ALttP_Red_Knight_16
+    21300034: Link_ALttP_Red_Knight_17
+    21300036: Link_ALttP_Red_Knight_18
+    21300038: Link_ALttP_Red_Knight_19
+    21300040: Link_ALttP_Red_Knight_20
+    21300042: Link_ALttP_Red_Knight_21
+    21300044: Link_ALttP_Red_Knight_22
+    21300046: Link_ALttP_Red_Knight_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Link_ALttP_Red_Knight_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 116
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 116
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 116
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 116
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 117
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 116
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 115
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 115
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 77
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 77
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 77
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 77
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 77
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 77
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 77
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 77
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 37
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 37
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 37
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 38
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 38
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 32
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_22
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 38
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Link_ALttP_Red_Knight_23
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 37
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
